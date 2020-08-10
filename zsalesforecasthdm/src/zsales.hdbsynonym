@@ -1,0 +1,38 @@
+{
+  "zgitnewtest01.zsalesforecasthdm::kna_01": {
+    "target": {
+      "object": "BIGQUERY_zsapsltkna101",
+      "schema": "GBQ01"
+    }
+  },
+  "zgitnewtest01.zsalesforecasthdm::t005t_01": {
+    "target": {
+      "object": "BIGQUERY_zsapsltt005t01",
+      "schema": "GBQ01"
+    }
+  },
+  "zgitnewtest01.zsalesforecasthdm::zsalesforecast_01": {
+    "target": {
+      "object": "ZsalesForeCaste",
+      "schema": "GBQ01"
+    }
+  },
+  "zgitnewtest01.zsalesforecasthdm::zsapregctry_01": {
+    "target": {
+      "object": "zsapregctry",
+      "schema": "GBQ01"
+    }
+  },
+  "zgitnewtest01.zsalesforecasthdm::makt_01": {
+    "target": {
+      "object": "BIGQUERY_zsapsltmakt01",
+      "schema": "GBQ01"
+    }
+  },
+  "zgitnewtest01.zsalesforecasthdm::mara_01": {
+    "target": {
+      "object": "BIGQUERY_zsapsltmara01",
+      "schema": "GBQ01"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"ServiceName_1": {
+		"object_owner": { 
+			"roles": [
+				"GBQ01::external_access_g"
+			]
+		},
+		"application_user": {
+			"roles": [
+				"GBQ01::external_access"
+			]
+		}
+	}
+}
